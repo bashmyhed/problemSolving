@@ -70,6 +70,7 @@ Topic-wise revision notes for solved problems live in `notes/`, one file per top
 - `notes/2-d-dp.md`
 - `notes/math-geometry.md`
 - `notes/bit-manipulation.md`
+- `notes/sliding-window.md`
 
 Each note summarizes the pattern, key idea, edge cases, and complexity for the
 corresponding solutions.
